@@ -1,0 +1,7 @@
+{
+    "validEmail" : "qa.analyst@email.com",
+    "validPassword" : "Password123!",
+    "invalidEmail" : "KBenzema@email.com",
+    "invalidPassword" : "santiago",
+    "shortPassword" : "og"
+}
